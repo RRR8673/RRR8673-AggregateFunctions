@@ -1,1 +1,1 @@
-SELECT MAX(salary) FROM employee;
+SELECT MAX(salary) FROM employee; 
